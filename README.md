@@ -50,3 +50,4 @@ This project solves the problem by implementing:
 
 ## 📂 Project Structure
 CI/CD pipeline configured
+Demo run
